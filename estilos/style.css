@@ -1,0 +1,17 @@
+.reloj {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.mireloj {
+    text-align: center;
+    font-size: 50px;
+    border-radius: 100px;
+    border-width: 20px;
+    border-style: double;
+    border-color: black;
+    padding-top: 150px;
+    padding-bottom: 150px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
